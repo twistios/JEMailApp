@@ -8,3 +8,4 @@ This is a Java E-Mail Client. It is a hobby project.<br><br>
 </p>
 <a href=https://github.com/twistios/JEMailApp/zipball/master>Download Repository as zip-File</a><br>
 <a href=https://github.com/twistios/JEMailApp/tarball/master>Download Repository as tar.gz-File</a>
+
